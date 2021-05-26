@@ -36,7 +36,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    <p> An awesome README template to jumpstart your projects! </p>
+    <p> <h2> An awesome README template to jumpstart your projects! <h2></p>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
